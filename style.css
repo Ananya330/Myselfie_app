@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:350px;
+    height:300px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    border:4px dotted palevioletred
+}
+#textbox
+{
+    width: 300px;
+}
+
+.girl_image{
+width: 250px;
+height:200px;
+border-radius:5px;
+
+
+}
+
+body{
+    font-family: "Concert One", sans-serif;
+    background: linear-gradient(to right, #f37f8f, #ffdde1); 
+    
+}
+
+
